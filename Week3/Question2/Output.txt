@@ -1,0 +1,6 @@
+-21 -13 12 45 46 65 76 89 
+With 28 comparisons and 7 swaps
+21 32 34 46 51 54 65 76 78 97 
+With 45 comparisons and 9 swaps
+12 22 31 42 46 54 63 65 86 223 324 325 553 645 652 
+With 105 comparisons and 14 swaps
