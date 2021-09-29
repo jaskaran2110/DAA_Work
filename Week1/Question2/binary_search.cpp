@@ -41,11 +41,11 @@ int main() {
         
         
         if(flag ==1) {
-            cout << "Present" << counter << endl;
+            cout << "present" << counter << endl;
             
         }
         else {
-            cout << "Not Present" << counter << endl;
+            cout << "not present" << counter << endl;
         }
         
     }
