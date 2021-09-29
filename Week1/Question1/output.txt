@@ -1,3 +1,0 @@
-present6
-present3
-not present6
