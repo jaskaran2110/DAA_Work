@@ -60,11 +60,11 @@ int main()
         cin>>key;
         int res=exponentialSearch(arr,n,key);
         if(res>=0) {
-            cout<<"present"<<count<<endl;
+            cout<<"present "<<count<<endl;
             count=0;
         }
         else{
-            cout<<"not present"<<count<<endl;
+            cout<<"not present "<<count<<endl;
             count++;
         }
     }
